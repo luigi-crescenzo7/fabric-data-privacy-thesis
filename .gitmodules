@@ -1,0 +1,3 @@
+[submodule "SpringMicroservices"]
+	path = SpringMicroservices
+	url = https://github.com/luigi-crescenzo7/SpringMicroservices.git
