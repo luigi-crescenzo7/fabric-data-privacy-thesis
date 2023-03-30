@@ -1,3 +1,6 @@
 [submodule "SpringMicroservices"]
 	path = SpringMicroservices
 	url = https://github.com/luigi-crescenzo7/SpringMicroservices.git
+[submodule "fabric-rest-service-app"]
+	path = fabric-rest-service-app
+	url = https://github.com/luigi-crescenzo7/fabric-rest-service-app.git
